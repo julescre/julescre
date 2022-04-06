@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @julescre
-- 👀 I’m interested in English literature, Embroidery, and Music 😊
 - 🌱 I’m currently learning Java 👩‍💻
 
 <!---
