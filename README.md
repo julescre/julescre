@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julescre
-- 🌱 I’m currently learning Java 👩‍💻
+- 🌱 I am always learning 👩‍💻
 
 <!---
 julescre/julescre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
